@@ -1,0 +1,21 @@
+﻿ID,Nome,Idade,Departamento,Cargo,Experiência (anos),Horas Semanais,Remoto,Desempenho,Salário,Satisfação,Horas Trabalhadas
+1,Ana,27,Vendas,Assistente,2.0,40,Sim,7.5,2800,7.5,40
+2,Bruno,35,TI,Analista,6.0,42,Não,6.8,6200,7.3,41
+3,Carla,30,RH,Coordenador,5.0,38,Sim,8.1,6800,8.3,38
+4,Diego,41,TI,Engenheiro,12.0,45,Não,7.0,9800,7.9,46
+5,Elisa,24,Vendas,Estagiária,0.5,30,Sim,9.0,1500,8.4,30
+6,Felipe,29,RH,Analista Jr.,3.0,39,Sim,7.4,3900,7.7,39
+7,Gabriel,38,Finanças,Gerente,10.0,44,Não,6.2,12500,7.8,44
+8,Heloísa,33,Marketing,Especialista,7.0,41,Sim,8.7,8200,8.2,41
+9,Igor,46,TI,Arquiteto,20.0,50,Não,5.9,14500,7.9,50
+10,Júlia,31,RH,Analista Sr.,8.0,40,Sim,7.8,7600,7.6,40
+11,Karen,26,Marketing,Assistente,2.0,36,Sim,8.3,4200,7.5,36
+12,Leonardo,37,Finanças,Coordenador,9.0,42,Não,6.5,7200,7.4,42
+13,Maria,43,Vendas,Consultora,15.0,46,Não,7.2,8500,7.8,47
+14,Nina,28,RH,Psicóloga,4.0,37,Sim,8.6,6100,8.1,37
+15,Otávio,39,TI,DevOps,11.0,48,Não,5.7,10500,7.7,49
+16,Paula,25,Vendas,Assistente,2.0,40,Sim,7.9,3100,7.6,40
+17,Rafaela,34,Finanças,Analista Sr.,6.0,41,Não,6.9,7900,7.2,41
+18,Sérgio,29,Marketing,Designer,5.0,39,Sim,8.5,5800,8.4,39
+19,Tânia,40,TI,Analista Sr.,14.0,44,Não,6.1,7000,7.8,45
+20,Vitor,32,RH,Generalista,6.0,40,Sim,7.6,5400,8.0,40
